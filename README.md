@@ -1,3 +1,3 @@
-# MY-PORTFOLIO
+# Portfolio
 
-Live: https://shivamjha2110.github.io/MY-PORTFOLIO/#
+Live: https://shivamjha2110.github.io/Resume/
